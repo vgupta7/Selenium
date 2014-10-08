@@ -6,7 +6,7 @@ import MainPack.Setup;
 
 /*
  * 
- * Vishal Gupta
+ * Vishal
  */
 public class LoginTest extends Setup {
 
