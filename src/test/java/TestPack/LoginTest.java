@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import MainPack.Setup;
 
 /*
- * This class is used for login to the box application.
+ * 
  * Vishal Gupta
  */
 public class LoginTest extends Setup {
